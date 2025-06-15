@@ -6,16 +6,15 @@ I'm a Full-Stack Web Developer who enjoys creating clean, responsive, and useful
 </p>
 
 <h3 align="left">📫 Connect with me</h3>
-
-<a href="mailto:achraf.ettgharssi1997@gmail.com" target="blank">
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/5.1.2/collection/components/icon/svg/mail-open.svg" 
-  alt="Email : achraf.ettgharssi1997@gmail.com" 
-  width="30" 
-  height="30"
-  style="filter: invert(95%) sepia(8%) saturate(300%) hue-rotate(180deg);">
-</a>
-
 <p align="left">
+  <a href="mailto:achraf.ettgharssi1997@gmail.com" target="blank">
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/5.1.2/collection/components/icon/svg/mail-open.svg" 
+    alt="Email : achraf.ettgharssi1997@gmail.com" 
+    width="30" 
+    height="30"
+    style="color: white">
+  </a>
+
    <a href="https://www.linkedin.com/in/achraf-ettgharssi/" target="blank"
     ><img
       align="center"
