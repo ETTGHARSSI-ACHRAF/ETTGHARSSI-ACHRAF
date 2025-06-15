@@ -1,36 +1,29 @@
 <h1 align="center">Hi 👋, I'm Achraf ETTGHARSSI</h1>
-<h3 align="center">I'm a Full-Stack web Developer</h3>
 
+<h3 align="left">👨‍💻 About Me</h3>
 <p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=ettgharssi-achraf&label=Profile%20views&color=0e75b6&style=flat"
-    alt="ettgharssi-achraf"
-  />
+I'm a Full-Stack Web Developer who enjoys creating clean, responsive, and useful applications. I’m passionate about tech, always curious, and I love learning new tools or frameworks that help bring ideas to life. For me, good code isn’t just about making things work — it’s about making them work well for real people.
 </p>
 
-- 👨‍💻 All of my projects are available at
-[https://github.com/ETTGHARSSI-ACHRAF](https://github.com/ETTGHARSSI-ACHRAF) -
-📫 How to reach me **achraf.ettgharssi1997@gmail.com** - ⚡ Fun fact **I am a
-creative person and love what I do**
+<h3 align="left">📫 Connect with me</h3>
 
-<h3 align="left">Connect with me:</h3>
+<a href="mailto:achraf.ettgharssi1997@gmail.com" target="blank">
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/5.1.2/collection/components/icon/svg/mail-open.svg" 
+  alt="Email : achraf.ettgharssi1997@gmail.com" 
+  width="30" 
+  height="30"
+  style="filter: invert(95%) sepia(8%) saturate(300%) hue-rotate(180deg);">
+</a>
+
 <p align="left">
-  <a href="www.linkedin.com/in/achraf-ettgharssi" target="blank"
+   <a href="https://www.linkedin.com/in/achraf-ettgharssi/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="achraf ettgharssi"
+      alt="Linked : achraf-ettgharssi"
       height="30"
       width="40"
-  /></a>
-  <!-- <a href="https://discord.gg/Achraf ETTGHARSSI#1259" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-      alt="Achraf ETTGHARSSI#1259"
-      height="30"
-      width="40"
-  /></a> -->
+  /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
